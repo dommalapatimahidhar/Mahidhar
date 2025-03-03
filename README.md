@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on **Treasure-hunt**
 
 - 🌱 I’m currently learning **Flutter**
-- 
-
+  
 - 📫 How to reach me **dommalapatimahidhar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
